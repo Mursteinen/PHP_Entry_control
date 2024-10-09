@@ -1,4 +1,4 @@
-Initial page
+Initial page is here
 ![image](https://github.com/user-attachments/assets/ee7943d7-77ee-4f4b-9861-4f59cf613cfc)
 
 If card is not already registered, you get redirected to add_cardholder.php
